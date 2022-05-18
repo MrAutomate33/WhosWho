@@ -3,9 +3,11 @@ Looking for a college? This app helps you find your college. Use is as an app, i
 
 ## General
 
-![](/AppPreview1.png)
-![](/AppPreview2.png)
 
+![](/AppPreview1.png?raw=true)
+![](/AppPreview2.png?raw=true)
+
+  
 ## Connections in use
 * Office 365 Users
 
