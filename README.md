@@ -14,3 +14,6 @@ This responsive app can be placed on any SharePoint page, in Microsoft Teams and
 1. Please download the [Who'swho.zip](/../../raw/main/Who'swho.zip).
 2. Follow the rest of the instrunctions at [docs.microsoft.com](https://docs.microsoft.com/power-apps/maker/canvas-apps/export-import-app#importing-a-canvas-app-package).
 3. Don't forget to share and publish the app!
+
+## Disclaimer
+*This code is provided as is without warranty of any kind, either express or implied, including any implied warranties of fitness for a particular purpose, merchantability, or non-infringement.*
