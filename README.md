@@ -2,7 +2,7 @@
 Looking for a college? This app helps you find your college. Use it as an app, in teams or embed it in your SharePoint page
 
 ## General
-Bothered by the fact that SharePoint doesn't have a nice overview of your colleges? This app will help you out!
+Bothered by the fact that SharePoint doesn't have a nice overview of your colleague? This app will help you out!
 This responsive app can be placed on any SharePoint page, in Microsoft Teams and is also for mobile. Expand the app with your own desires, modify the app with the power of Power Apps and show the information and/or filters you want.
 <img src="/AppPreview1.png?raw=true" height="400">
 <img src="/AppPreview2.png?raw=true" height="400">
