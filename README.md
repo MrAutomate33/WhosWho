@@ -1,4 +1,4 @@
-# Power Apps - Who's who
+# Power Apps - Who's who (Lite)
 Looking for a colleague? This app helps you find your colleague. Use it as an app, in teams or embed it in your SharePoint page
 
 ## General
